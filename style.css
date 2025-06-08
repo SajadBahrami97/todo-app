@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  background: pink;
   padding: 20px;
 }
 
@@ -23,11 +24,4 @@ li {
   padding: 5px;
   background: #cfcfcf;
   margin-bottom: 5px;
-}
-
-body {
-  background: pink;
-}
-h1 {
-  color: red;
 }
